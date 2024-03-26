@@ -8,22 +8,23 @@ The dashboard should provide real-time insights into key performance indicators 
 The data was extracted and meticulously cleaned utilizing Power Query. DAX metrics were then applied to derive insightful calculations. Finally, the data was visualized to effectively present the findings, empowering business stakeholders to make informed decisions.
 
 ### Sales Overview:
- (a) YTD and MTD Total Sales
- (b) YOY Growth in Total Sales
- (c)YTD and MTD Average Price
- (d) YOY Growth in Average Price
- (e)YTD and MTD Cars Sold
- (f) YOY Growth in Cars Sold
+ - YTD and MTD Total Sales
+ - YOY Growth in Total Sales
+ - YTD and MTD Average Price
+ -  YOY Growth in Average Price
+ -   TD and MTD Cars Sold
+ -     Y Growth in Cars Sold
 
 ### Charts and Values Represented
-(a) Cars Sold Metrics
-(b) Average Price Analysis
-(c) YTD Sales Weekly Trend
-(d) YTD Total Sales by Body Style
-(e) YTD Total Sales by Color
-(f) YTD Cars Sold by Dealer Region
-(g) Company-Wise Sales Trend in Grid Form
-(h) Details Grid Showing All Car Sales Information
+
+- Cars Sold Metrics
+- Average Price Analysis
+- YTD Sales Weekly Trend
+- YTD Total Sales by Body Style
+- YTD Total Sales by Color
+- YTD Cars Sold by Dealer Region
+- Company-Wise Sales Trend in Grid Form
+- Details Grid Showing All Car Sales Information
 
 ### Screenshots of Dashboard 
 
