@@ -1,35 +1,29 @@
+# Car Sales Analysis:
+
+## Problem Statment: 
 The objective of this project is to design and develop a dynamic and interactive Car Sales Dashboard using Power BI. The dashboard will visualize critical KPIs related to our car sales, helping us understand our sales performance over time and make data-driven decisions.
 
-Problem Statement:
-The dashboard should provide real-time insights into key performance indicators (KPIs) related to our sales data. This will enable us to make informed decisions, monitor our progress, and identify trends and opportunities for growth.
+The dashboard should provide real-time insights into key performance indicators (KPIs) related to our sales data. This will enable us to make informed decisions, monitor our progress, and identify trends and opportunities for growth. It includes YTD Total Sales, YTD Average Price, and YTD Car Sold with their differences and growth respectively. Additionally, it also shows visuals of YTD weekly sales, Sales based on Body Type and Color, and their trends.
 
-Sales Overview:
-Year-to-Date (YTD) Total Sales
-Month-to-Date (MTD) Total Sales
-Year-over-Year (YOY) Growth in Total Sales
-Difference between YTD Sales and Previous Year-to-Date (PTYD) Sales
-Average Price Analysis:
+The data was extracted and meticulously cleaned utilizing Power Query. DAX metrics were then applied to derive insightful calculations. Finally, the data was visualized to effectively present the findings, empowering business stakeholders to make informed decisions.
 
-YTD Average Price
-MTD Average Price
-YOY Growth in Average Price
-Difference between YTD Average Price and PTYD Average Price
-Cars Sold Metrics:
+### Sales Overview:
+ (a) YTD and MTD Total Sales
+ (b) YOY Growth in Total Sales
+ (c)YTD and MTD Average Price
+ (d) YOY Growth in Average Price
+ (e)YTD and MTD Cars Sold
+ (f) YOY Growth in Cars Sold
 
-YTD Cars Sold
-MTD Cars Sold
-YOY Growth in Cars Sold
-Difference between YTD Cars Sold and PTYD Cars Sold
-Problem Statement 2: Charts Requirement
-YTD Sales Weekly Trend:
-Display a line chart illustrating the weekly trend of YTD sales. The X-axis should represent weeks, and the Y-axis should show the total sales amount.
-YTD Total Sales by Body Style:
-Visualize the distribution of YTD total sales across different car body styles using a Pie chart.
-YTD Total Sales by Color:
-Present the contribution of various car colors to the YTD total sales through a pie chart.
-YTD Cars Sold by Dealer Region:
-Showcase the YTD sales data based on different dealer regions using a map chart to visualize the sales distribution geographically.
-Company-Wise Sales Trend in Grid Form:
-Provide a tabular grid that displays the sales trend for each company. The grid should showcase the company name along with their YTD sales figures.
-Details Grid Showing All Car Sales Information:
-Create a detailed grid that presents all relevant information for each car sale, including car model, body style, color, sales amount, dealer region, date, etc.
+### Charts and Values Represented
+(a) Cars Sold Metrics
+(b) Average Price Analysis
+(c) YTD Sales Weekly Trend
+(d) YTD Total Sales by Body Style
+(e) YTD Total Sales by Color
+(f) YTD Cars Sold by Dealer Region
+(g) Company-Wise Sales Trend in Grid Form
+(h) Details Grid Showing All Car Sales Information
+
+## Screenshots of Dashboard 
+Overview 
