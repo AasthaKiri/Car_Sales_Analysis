@@ -26,6 +26,12 @@ The data was extracted and meticulously cleaned utilizing Power Query. DAX metri
 (h) Details Grid Showing All Car Sales Information
 
 ### Screenshots of Dashboard 
-Overview 
+
+Overview : 
+
 ![Screenshot 2024-03-26 001135](https://github.com/AasthaKiri/Car_Sales_Analysis/assets/98647483/221e1e2e-1a06-4e69-8462-cfc2856471f4)
+
+Details : 
+
+![Screenshot 2024-03-26 001147](https://github.com/AasthaKiri/Car_Sales_Analysis/assets/98647483/de641fcd-cd48-4c50-bae6-61aea3ca4e4c)
 
