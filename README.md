@@ -15,7 +15,7 @@ The data was extracted and meticulously cleaned utilizing Power Query. DAX metri
  - YTD and MTD Cars Sold
  - YOY Growth in Cars Sold
 
-### Charts and Values Represented
+### Charts and Values Represented:
 
 - Cars Sold Metrics
 - Average Price Analysis
@@ -26,7 +26,7 @@ The data was extracted and meticulously cleaned utilizing Power Query. DAX metri
 - Company-Wise Sales Trend in Grid Form
 - Details Grid Showing All Car Sales Information
 
-### Screenshots of Dashboard 
+### Screenshots of Dashboard:
 
 ### Overview : 
 
