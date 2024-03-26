@@ -25,5 +25,7 @@ The data was extracted and meticulously cleaned utilizing Power Query. DAX metri
 (g) Company-Wise Sales Trend in Grid Form
 (h) Details Grid Showing All Car Sales Information
 
-## Screenshots of Dashboard 
+### Screenshots of Dashboard 
 Overview 
+![Screenshot 2024-03-26 001135](https://github.com/AasthaKiri/Car_Sales_Analysis/assets/98647483/221e1e2e-1a06-4e69-8462-cfc2856471f4)
+
