@@ -11,9 +11,9 @@ The data was extracted and meticulously cleaned utilizing Power Query. DAX metri
  - YTD and MTD Total Sales
  - YOY Growth in Total Sales
  - YTD and MTD Average Price
- -  YOY Growth in Average Price
- -   TD and MTD Cars Sold
- -     Y Growth in Cars Sold
+ - YOY Growth in Average Price
+ - YTD and MTD Cars Sold
+ - YOY Growth in Cars Sold
 
 ### Charts and Values Represented
 
